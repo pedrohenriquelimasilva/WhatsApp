@@ -12,7 +12,7 @@ const Chat = () => {
       <div className="chatInfo">
         <span>{data.user?.displayName}</span>
         <div className="chatIcons">
-        <i className="material-symbols-outlined">photo_camera</i>
+          <i className="material-symbols-outlined">photo_camera</i>
           <i className="material-symbols-outlined">person</i>
           <i className="material-symbols-outlined">more_horiz</i>
         </div>
